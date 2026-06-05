@@ -1,2 +1,4 @@
 hello
 May b lam chuc nang sms
+Hello
+may a lam tinh nang gui mail
